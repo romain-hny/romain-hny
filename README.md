@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romain-hny
-- 👀 I’m interested in mathematical and logical challenges, thus my preference for back-end programming and javascript development
+- 👀 I’m interested in mathematical and logical challenges, thus looking for a job as a back-end developer
 - 🌱 I’m currently learning React to learn more about Javascript and recent frameworks
 - 📫 How to reach me : heranney.romain@gmail.com
 
